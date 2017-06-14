@@ -1,0 +1,6 @@
+c:\users\darrell\documents\visual studio 2017\Projects\CodePuzzle1\CodePuzzle1\bin\Debug\CodePuzzle1.exe.config
+c:\users\darrell\documents\visual studio 2017\Projects\CodePuzzle1\CodePuzzle1\bin\Debug\CodePuzzle1.exe
+c:\users\darrell\documents\visual studio 2017\Projects\CodePuzzle1\CodePuzzle1\bin\Debug\CodePuzzle1.pdb
+c:\users\darrell\documents\visual studio 2017\Projects\CodePuzzle1\CodePuzzle1\obj\Debug\CodePuzzle1.exe
+c:\users\darrell\documents\visual studio 2017\Projects\CodePuzzle1\CodePuzzle1\obj\Debug\CodePuzzle1.pdb
+c:\users\darrell\documents\visual studio 2017\Projects\CodePuzzle1\CodePuzzle1\obj\Debug\CodePuzzle1.csprojResolveAssemblyReference.cache

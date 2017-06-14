@@ -68,7 +68,7 @@ namespace CodePuzzle1
                 }
 
 
-                Console.WriteLine("\nEnter the lenth in pixels of the square's side: ");
+                Console.WriteLine("\nEnter the length in pixels of the square's side: ");
 
                 string lenStr = Console.ReadLine();
 
